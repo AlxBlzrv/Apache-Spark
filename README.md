@@ -31,7 +31,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/Apache-Spark.git
+git clone https://github.com/AlxBlzrv/Apache-Spark.git
 cd Apache-Spark
 ```
 
